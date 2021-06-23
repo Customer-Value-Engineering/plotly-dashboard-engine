@@ -1,0 +1,5 @@
+gunicorn==19.9.0
+psycopg2
+dash_design_kit-1.6.2.tar.gz
+dash_snapshots-1.4.4.tar.gz
+dashboard_engine-0.3.0.tar.gz
